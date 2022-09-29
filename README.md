@@ -18,7 +18,7 @@ The following features are built into the application:
 - Webp image conversion for optimal performance
 
 ## To-Do
-The following features are planned for the future
+The following features are planned for the future:
 - Different post layout modes (card, grid, list, compact).
 - ATOM support
 - User authentication and user management system.
